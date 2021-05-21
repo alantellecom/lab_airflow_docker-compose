@@ -1,0 +1,9 @@
+steps:
+- name: 'gcr.io/cloud-builders/docker'
+  args: ['build', '--tag=gcr.io/robotic-tide-284315/fastapi-iris:latest', '--file=/opt/airflow/dags/deployApi/apiIris/Dockerfile', '.']
+images: ['gcr.io/robotic-tide-284315/fastapi-iris:latest']
+
+
+
+
+

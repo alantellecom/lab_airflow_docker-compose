@@ -1,0 +1,15 @@
+artifact_uri: file:///opt/airflow/dags/etl_scripts/mlruns/1/6b5b89ee85ea4ba19105a568472d3163/artifacts
+end_time: 1621481859104
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 6b5b89ee85ea4ba19105a568472d3163
+run_uuid: 6b5b89ee85ea4ba19105a568472d3163
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1621481858850
+status: 3
+tags: []
+user_id: default
